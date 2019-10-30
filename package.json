@@ -1,0 +1,19 @@
+{
+  "name": "dt25102019",
+  "version": "1.0.0",
+  "description": "This is the Second Update of my node js files",
+  "main": "bs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodejs"
+  },
+  "keywords": [
+    "sayan",
+    "nodejs"
+  ],
+  "author": "Sayan",
+  "license": "ISC"
+}
